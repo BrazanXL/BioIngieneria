@@ -1,4 +1,5 @@
-# CLASIFICACIÓN DE RIESGO DE LOS DISPOSITIVOS MÉDICOS[FUENTE](https://www.invima.gov.co/documents/20143/442916/abc_dispositivos-medicos.pdf/d32f6922-0c50-bcaa-6b53-066edfb98274)
+# CLASIFICACIÓN DE RIESGO DE LOS DISPOSITIVOS MÉDICOS 
+[FUENTE](https://www.invima.gov.co/documents/20143/442916/abc_dispositivos-medicos.pdf/d32f6922-0c50-bcaa-6b53-066edfb98274)
 
 Requisitos fundamentales de seguridad y funcionamiento de los dispositivos médicos.
 Los dispositivos médicos deberán cumplir con los requisitos de seguridad y funcionamiento
@@ -14,7 +15,7 @@ Son aquellos dispositivos médicos de bajo riesgo, sujetos a controles generales
 ### Clase IIA.
 Son los dispositivos médicos de riesgo moderado, sujetos a controles especiales en la fase de fabricación para demostrar su seguridad y efectividad.
 
-### Clase IlB.
+### Clase IIB.
 Son los dispositivos médicos de riesgo alto, sujetos a controles especiales en el diseño y fabricación para demostrar su seguridad y efectividad.
 
 ### Clase III.
