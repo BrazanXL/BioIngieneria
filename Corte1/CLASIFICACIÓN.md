@@ -46,3 +46,17 @@ Antes de determinar su clasificación deben revisarse los siguientes conceptos:
 Teniendo en cuenta lo anterior, ningún Dispositivo Médico será exento de Registro Sanitario *excepto los dispositivos sobre medidas, vitales no disponibles y aquellos requeridos por la autoridad sanitaria por emergencia sanitaria, o para investigación clínica y no podrá ser usado en pacientes*.
 
 Para aquellos productos que se tenga duda si es o no Dispositivo Médico según la definición adoptada, deberá solicitarse al INVIMA el concepto correspondiente sobre si es o no Dispositivo Médico mediante el trámite de un certificado de no obligatoriedad.
+
+## FACTORES QUE INFLUYEN EN LA CLASIFICACION
+
+Factores tales como tiempo de contacto, grado de invasión, si el dispositivo libera un medicamento o energía, cuando afecta biológicamente a un paciente de forma local ó sistémica, si es sólo o combinado, así:
+
+1. Cuando un dispositivo va a ser utilizado junto con otros dispositivos, que son o no del mismo fabricante, la regla de clasificación debe ser aplicada a cada uno de los dispositivos por separado. Ejemplo: Kits.
+
+2. Si el software independiente cae en la amplitud de la definición de dispositivo médico, debería ser clasificado así:
+
+	» Cuando éste conduce o influye en el empleo de un dispositivo médico, debería ser clasificado según el uso indicado.
+
+	» Cuando es independiente de cualquier otro dispositivo médico, es clasificado teniendo en cuenta las reglas de clasificación del artículo 7 del Decreto 4725 de 2005.
+
+	» El software independiente *"si cae dentro de la definición de un dispositivo médico"* es considerado un dispositivo activo.
