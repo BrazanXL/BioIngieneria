@@ -60,3 +60,55 @@ Factores tales como tiempo de contacto, grado de invasión, si el dispositivo li
 	» Cuando es independiente de cualquier otro dispositivo médico, es clasificado teniendo en cuenta las reglas de clasificación del artículo 7 del Decreto 4725 de 2005.
 
 	» El software independiente *"si cae dentro de la definición de un dispositivo médico"* es considerado un dispositivo activo.
+
+
+
+
+## Clasificación "I" - Bajo Riesgo
+
+Los equipos en esta categoría se consideran de bajo riesgo y son esenciales en diversos entornos médicos:
+
+- Termómetros médicos
+- Balanzas para uso médico
+- Microscopios básicos para diagnóstico
+- Lámparas de examen médico
+- Estetoscopios
+- Equipo de sujeción médica (como férulas)
+- Equipos de administración de oxígeno básicos
+
+## Clasificación "IIA" - Riesgo Moderado
+
+En esta categoría se incluyen equipos médicos de riesgo moderado, que desempeñan un papel crucial en la atención de la salud:
+
+- Bombas de infusión
+- Monitores de signos vitales
+- Desfibriladores externos automáticos (DEA)
+- Equipos de ultrasonido diagnóstico
+- Ventiladores médicos
+- Electrocardiógrafos (ECG)
+- Centrífugas de laboratorio clínico
+- Incubadoras neonatales
+- Equipos de anestesia
+
+## Clasificación "IIB" - Riesgo Moderado - Alto
+
+Los equipos en esta categoría presentan un riesgo moderado a alto y requieren una atención y regulación más detallada:
+
+- Endoscopios
+- Sistemas de electrocirugía
+- Equipos de monitorización cardíaca avanzada
+- Equipos de radiología convencional
+- Equipos de hemodiálisis
+
+## Clasificación "III" - Alto Riesgo
+
+Esta categoría incluye equipos con un alto riesgo potencial y una regulación estricta:
+
+- Implantes médicos (marcapasos, prótesis articulares, etc.)
+- Equipos de radioterapia
+- Equipos de cirugía láser
+- Equipos de diagnóstico por imagen avanzados (MRI, CT)
+
+### Informacion Adicional
+La clasificación de equipos biomédicos según el INVIMA está diseñada para evaluar el riesgo asociado con su uso. Esta clasificación se basa en criterios específicos que consideran factores como la duración del contacto con el paciente, el grado de invasión, el uso previsto y las características de funcionamiento.
+ 
