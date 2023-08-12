@@ -62,7 +62,7 @@ Factores tales como tiempo de contacto, grado de invasión, si el dispositivo li
 	» El software independiente *"si cae dentro de la definición de un dispositivo médico"* es considerado un dispositivo activo.
 
 
-
+# DETALLE DE CLASIFICACION
 
 ## Clasificación "I" - Bajo Riesgo
 
@@ -111,4 +111,3 @@ Esta categoría incluye equipos con un alto riesgo potencial y una regulación e
 
 ### Informacion Adicional
 La clasificación de equipos biomédicos según el INVIMA está diseñada para evaluar el riesgo asociado con su uso. Esta clasificación se basa en criterios específicos que consideran factores como la duración del contacto con el paciente, el grado de invasión, el uso previsto y las características de funcionamiento.
- 
