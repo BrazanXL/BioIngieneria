@@ -20,3 +20,10 @@ Son los dispositivos médicos de riesgo alto, sujetos a controles especiales en 
 
 ### Clase III.
 Son los dispositivos médicos de muy alto riesgo sujetos a controles especiales, destinados a proteger o mantener la vida o para un uso de importancia sustancial en la prevención del deterioro de la salud humana, o si su uso presenta un riesgo potencial de enfermedad o lesión.
+
+|CLASE|NIVEL DE RIESGO|EJEMPLOS DE PRODUCTOS|
+|:---:|:---|:---|
+|I|Riesgo Bajo|Instrumental quirúrgico - Gasa.|
+|IIA|Riesgo Moderado|Agujas hipodérmicas - equipo de succión.|
+|IIB|Riesgo Alto|Ventilador pulmonar - implantes ortopédicos.|
+|III|Riesgo Muy Alto|Válvulas cardiacas - marcapasos|
