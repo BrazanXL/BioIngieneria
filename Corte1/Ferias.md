@@ -8,7 +8,6 @@ Shenzhen World Exhibition & Convention Center
 
 Shenzhen, China
 
-
 ## ERS International Congress 2023
 
 Del 9 al 13 September 2023 *¡Sólo faltan 26 días!*
