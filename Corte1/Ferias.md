@@ -1,5 +1,7 @@
 # Ferias de Ferias de Equipamiento médico destacadas
 
+A continuacion algunas ferias al rededor del mundo exponiendo equipamento medico y biomedico
+
 ## Shenzhen International Medical Devices Expo 2023
 
 Del 29 al 31 August 2023 *¡Sólo faltan 15 días!*
