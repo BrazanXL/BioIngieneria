@@ -56,3 +56,13 @@ São Paulo Expo Exhibition & Convention Center
 Sao Paulo, Brasil
 
 Equipamiento de laboratorio, Equipamiento médico, Equipamiento para hospitales, Equipamiento y tecnología, Salud
+
+## OTWorld (Orthopädie+Rehatechnik) 2024
+
+Del 14 al 17 May 2024
+
+Leipziger Messe
+
+Leipzig, Alemania
+
+Equipamiento médico, Farmacia, Salud, Medicina
