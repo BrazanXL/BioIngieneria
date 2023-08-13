@@ -15,6 +15,7 @@ Racecourse - Galway (Irlanda)
 Feria internacional de desarrollo y fabricación de equipos médicos
 
 Intex - Tokyo (Japón)
+
 [link](www.medical-jpn.jp/hub/en-gb.html)
 
 ## Medica 2023: 13/11/2023 a 16/11/2023
@@ -22,27 +23,35 @@ Intex - Tokyo (Japón)
 Feria de medicina y equipamiento para hospitales
 
 Messe Düsseldorf - Düsseldorf (Alemania)
+
 [Link](www.medica-tradefair.com/)
 
 ## ComPaMED 2023: 13/11/2023 a 16/11/2023
 La feria para la industria de proveedores médicos y el desarrollo de productos Messe Düsseldorf - Düsseldorf (Alemania)
-www.compamed.de
+
+[Link](www.compamed.de)
+
 ## Medical Osaka 2024: 17/01/2024 a 19/01/2024
-Feria internacional de desarrollo y fabricación de equipos médicos 
+
+*Feria internacional de desarrollo y fabricación de equipos médicos*
+
 Intex - Osaka (Japón)
-www.medical-jpn.jp/hub/en-gb.html
+
+[Link](www.medical-jpn.jp/hub/en-gb.html)
+
 ## Expodental 2024: 14/03/2024 a 16/03/2024
-Salón Internacional de Equipos, Productos y Servicios Dentales 
+*Salón Internacional de Equipos, Productos y Servicios Dentales*
 IFEMA - Feria de Madrid - Madrid (España)
-www.ifema.es/expodental
+
+[Link](www.ifema.es/expodental)
 
 ## Meditech 2024: 09/07/2024 a 12/07/2024
 
-Principales fabricantes, distribuidores y comercializadores de equipos, tecnología, insumos y servicios para la industria médica Centro de Convenciones 
+*Principales fabricantes, distribuidores y comercializadores de equipos, tecnología, insumos y servicios para la industria médica Centro de Convenciones*
 
 CORFERIAS - Bogota (Colombia)
 
-feriameditech.com/
+[Link](feriameditech.com/)
 
 ## Shenzhen International Medical Devices Expo 2023
 
