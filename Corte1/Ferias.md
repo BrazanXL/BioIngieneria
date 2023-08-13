@@ -8,8 +8,30 @@ Shenzhen World Exhibition & Convention Center
 
 Shenzhen, China
 
+
 ## ERS International Congress 2023
 
 Del 9 al 13 September 2023 *¡Sólo faltan 26 días!*
 
 Milán, Italia
+
+
+## Medical Fair Thailand 2023
+
+Del 13 al 15 September 2023 *¡Sólo faltan 30 días!*
+
+Bangkok International Trade & Exhibition Centre *BITEC*
+
+Bangkok, Tailandia
+
+*Equipamiento médico, Tecnología de laboratorio, Servicios médicos, Equipamiento para hospitales, Odontología, Salud*
+
+## Tecnosalud 2023
+
+Del 13 al 15 September 2023 *¡Sólo faltan 30 días!*
+
+Jockey Exhibition Center
+
+Lima, Perú
+
+Equipamiento médico, Servicios médicos, Cuidado de la salud, Equipamiento para hospitales, Médico, Salud
