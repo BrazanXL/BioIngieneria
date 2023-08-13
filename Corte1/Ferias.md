@@ -44,3 +44,13 @@ Galway Racecourse
 Galway, Irlanda
 
 Equipamiento médico, Equipamiento quirúrgico, Equipamiento para hospitales, Medicina
+
+## HIS - Healthcare Innovation Show 2023
+
+Del 20 al 21 September 2023 *¡Sólo faltan 37 días!*
+
+São Paulo Expo Exhibition & Convention Center
+
+Sao Paulo, Brasil
+
+Equipamiento de laboratorio, Equipamiento médico, Equipamiento para hospitales, Equipamiento y tecnología, Salud
